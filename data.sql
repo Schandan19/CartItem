@@ -1,0 +1,1 @@
+INSERT INTO CART_ITEMS(id,brand,model) VALUES(1,'dummy','dummy');
